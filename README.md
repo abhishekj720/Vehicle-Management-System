@@ -1,10 +1,12 @@
 # Vehicle-Management-System
  
  
-Format:
+Format:  
+
 Desktop Java Server Pages GUI application with My SQL Server database.
 
-Problem Statement:
+Problem Statement:  
+
 “To reduce the paper work and totally digitalize the registration done by RTO office and to change the ownership of the vehicle. “
 This project is used for keeping the records of the vehicle that are owned by the customers and detail of the owner who owns that particular vehicle.
 
