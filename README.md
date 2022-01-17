@@ -11,7 +11,8 @@ Problem Statement:
 This project is used for keeping the records of the vehicle that are owned by the customers and detail of the owner who owns that particular vehicle.
 
 
-Features:
+Features:  
+
 The designed database management system provides RTO office to maintain all records about 2-Wheeler registration, 3-Wheeler registration, LMV, HMV, learning license and driving license generation. Initially the RTO Officer will enter owner details and all the complete information will be saved into the database. To register a vehicle through this software RTO officer has to provide all the details of vehicles including vehicle number, manufacturer’s name, body type, vehicle owner details, chassis number, registration date, etc. This data is going to be further retrieved by the user to see all the details specified. These transactions are now being done with higher accuracy and efficiency.
 Vehicle registration system allows registration officers to register a vehicle to register owner and to provide registration details after the owner owns a vehicle. Tool has been designed to facilitate the flow of information within the organization. It also shows the information related to vehicle and the owner . The project also gives tax amount to be paid for the vehicle owned by an owner before it’s due date.
 This dynamic project also has a feature of changing the ownership of the vehicle. Previously, it was a bit lengthy and time taking task when a owner had to sell a vehicle to new owner officially. This project does this task very easily and saves lot of precious time. Paper work was heck of a task!
